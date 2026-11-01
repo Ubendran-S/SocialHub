@@ -1,0 +1,514 @@
+{
+  "users": [
+    {
+      "id": "0",
+      "name": "Ubendran",
+      "username": "_ubendran_",
+      "email": "ubendran1611@gmail.com",
+      "password": "demo123",
+      "bio": "MCU Fan | Exploring the world",
+      "profileImage": "https://i.pravatar.cc/150?img=12",
+      "coverImage": "https://images.unsplash.com/photo-1519608487953-e999c86e7455",
+      "location": "Coimbatore, India",
+      "website": "",
+      "postsCount": 3,
+      "followers": 1250,
+      "following": 540,
+      "posts": [
+        {
+          "id": 1,
+          "image": "https://images.unsplash.com/photo-1519681393784-d120267933ba",
+          "caption": "Exploring the world"
+        },
+        {
+          "id": 2,
+          "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3",
+          "caption": "Learning something new"
+        },
+        {
+          "id": 3,
+          "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085",
+          "caption": "Building my next project"
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "name": "Arun Kumar",
+      "username": "arun_k",
+      "email": "arun@example.com",
+      "password": "demo123",
+      "bio": "Photography lover 📸 | Exploring the world",
+      "profileImage": "https://i.pravatar.cc/150?img=12",
+      "coverImage": "https://images.unsplash.com/photo-1477959858617-67f85cf4f1df",
+      "location": "Chennai, India",
+      "website": "",
+      "postsCount": 6,
+      "followers": 1250,
+      "following": 540,
+      "posts": [
+        {
+          "id": 1,
+          "image": "https://images.unsplash.com/photo-1477959858617-67f85cf4f1df",
+          "caption": "Avengers Tower view 🏙️ #MCU"
+        },
+        {
+          "id": 2,
+          "image": "https://images.unsplash.com/photo-1449824913935-59a10b8d2000",
+          "caption": "New York, post-Battle of New York 💥"
+        },
+        {
+          "id": 3,
+          "image": "https://images.unsplash.com/photo-1514565131-fce0801e5785",
+          "caption": "Golden hour, Wakanda style 🐆"
+        },
+        {
+          "id": 4,
+          "image": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34",
+          "caption": "Greetings from the Sanctum Sanctorum 🔮"
+        },
+        {
+          "id": 5,
+          "image": "https://images.unsplash.com/photo-1472214103451-9374bd1c798e",
+          "caption": "Asgard called, it wants its hills back ⚡"
+        },
+        {
+          "id": 6,
+          "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee",
+          "caption": "Road trip to the Avengers compound 🛡️"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Priya Sharma",
+      "username": "priya_sharma",
+      "email": "priya@example.com",
+      "password": "demo123",
+      "bio": "Coffee ☕ | Books 📚 | Good vibes",
+      "profileImage": "https://i.pravatar.cc/150?img=47",
+      "coverImage": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085",
+      "location": "Bengaluru, India",
+      "website": "",
+      "postsCount": 4,
+      "followers": 2840,
+      "following": 680,
+      "posts": [
+        {
+          "id": 1,
+          "image": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085",
+          "caption": "Coffee first"
+        },
+        {
+          "id": 2,
+          "image": "https://images.unsplash.com/photo-1488590528505-98d2b5aba04b",
+          "caption": "Study corner"
+        },
+        {
+          "id": 3,
+          "image": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d9",
+          "caption": "Rainy day reads"
+        },
+        {
+          "id": 4,
+          "image": "https://images.unsplash.com/photo-1519125323398-675f0ddb6308",
+          "caption": "Evening glow"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Rahul Verma",
+      "username": "rahul_v",
+      "email": "rahul@example.com",
+      "password": "demo123",
+      "bio": "Developer 💻 | Building cool things",
+      "profileImage": "https://i.pravatar.cc/150?img=13",
+      "coverImage": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97",
+      "location": "Hyderabad, India",
+      "website": "https://rahulverma.example.com",
+      "postsCount": 2,
+      "followers": 980,
+      "following": 430,
+      "posts": [
+        {
+          "id": 1,
+          "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085",
+          "caption": "Late night debugging"
+        },
+        {
+          "id": 2,
+          "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97",
+          "caption": "Workstation setup"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Sneha Reddy",
+      "username": "sneha_reddy",
+      "email": "sneha@example.com",
+      "password": "demo123",
+      "bio": "Dancer 💃 | Dream big, work hard",
+      "profileImage": "https://i.pravatar.cc/150?img=44",
+      "coverImage": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac",
+      "location": "Mumbai, India",
+      "website": "",
+      "postsCount": 7,
+      "followers": 3560,
+      "following": 720,
+      "posts": [
+        {
+          "id": 1,
+          "image": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac",
+          "caption": "Rehearsal day"
+        },
+        {
+          "id": 2,
+          "image": "https://images.unsplash.com/photo-1550745165-9bc0b252726f",
+          "caption": "Retro vibes"
+        },
+        {
+          "id": 3,
+          "image": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05",
+          "caption": "Inspiration hits"
+        },
+        {
+          "id": 4,
+          "image": "https://images.unsplash.com/photo-1519681393784-d120267933ba",
+          "caption": "Under the stars"
+        },
+        {
+          "id": 5,
+          "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3",
+          "caption": "Dream big"
+        },
+        {
+          "id": 6,
+          "image": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e",
+          "caption": "Into the woods"
+        },
+        {
+          "id": 7,
+          "image": "https://images.unsplash.com/photo-1513364776144-60967b0f800f",
+          "caption": "Stage lights"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Vikram Raj",
+      "username": "vikram_raj",
+      "email": "vikram@example.com",
+      "password": "demo123",
+      "bio": "Fitness enthusiast 💪 | Never give up",
+      "profileImage": "https://i.pravatar.cc/150?img=14",
+      "coverImage": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211",
+      "location": "Madurai, India",
+      "website": "",
+      "postsCount": 3,
+      "followers": 1870,
+      "following": 390,
+      "posts": [
+        {
+          "id": 1,
+          "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211",
+          "caption": "Game day"
+        },
+        {
+          "id": 2,
+          "image": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438",
+          "caption": "Leg day, no excuses"
+        },
+        {
+          "id": 3,
+          "image": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48",
+          "caption": "Morning grind"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Meera Krishnan",
+      "username": "meera_k",
+      "email": "meera@example.com",
+      "password": "demo123",
+      "bio": "Artist 🎨 | Creating one day at a time",
+      "profileImage": "https://i.pravatar.cc/150?img=49",
+      "coverImage": "https://images.unsplash.com/photo-1513364776144-60967b0f800f",
+      "location": "Kochi, India",
+      "website": "https://meerakrishnan.example.com",
+      "postsCount": 5,
+      "followers": 4120,
+      "following": 850,
+      "posts": [
+        {
+          "id": 1,
+          "image": "https://images.unsplash.com/photo-1513364776144-60967b0f800f",
+          "caption": "New canvas, new ideas"
+        },
+        {
+          "id": 2,
+          "image": "https://images.unsplash.com/photo-1541961017774-22349e4a1262",
+          "caption": "Color study"
+        },
+        {
+          "id": 3,
+          "image": "https://images.unsplash.com/photo-1579783902614-a3fb3927b6a5",
+          "caption": "Work in progress"
+        },
+        {
+          "id": 4,
+          "image": "https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b",
+          "caption": "Studio mornings"
+        },
+        {
+          "id": 5,
+          "image": "https://images.unsplash.com/photo-1547826039-bfc35e0f1ea8",
+          "caption": "Finished piece"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Karthik S",
+      "username": "karthik_s",
+      "email": "karthik@example.com",
+      "password": "demo123",
+      "bio": "Tech enthusiast 🚀 | Lifelong learner",
+      "profileImage": "https://i.pravatar.cc/150?img=15",
+      "coverImage": "https://images.unsplash.com/photo-1518770660439-4636190af475",
+      "location": "Coimbatore, India",
+      "website": "",
+      "postsCount": 1,
+      "followers": 760,
+      "following": 310,
+      "posts": [
+        {
+          "id": 1,
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475",
+          "caption": "Circuits and code"
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Ananya Patel",
+      "username": "ananya_p",
+      "email": "ananya@example.com",
+      "password": "demo123",
+      "bio": "Travel 🌍 | Collecting memories, not things",
+      "profileImage": "https://i.pravatar.cc/150?img=45",
+      "coverImage": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4",
+      "location": "Ahmedabad, India",
+      "website": "https://ananyapatel.example.com",
+      "postsCount": 8,
+      "followers": 5290,
+      "following": 910,
+      "posts": [
+        {
+          "id": 1,
+          "image": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b",
+          "caption": "Above the clouds"
+        },
+        {
+          "id": 2,
+          "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+          "caption": "Beach therapy"
+        },
+        {
+          "id": 3,
+          "image": "https://images.unsplash.com/photo-1469474968028-56623f02e42e",
+          "caption": "Sunrise hike"
+        },
+        {
+          "id": 4,
+          "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
+          "caption": "Lakeside calm"
+        },
+        {
+          "id": 5,
+          "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
+          "caption": "Valley views"
+        },
+        {
+          "id": 6,
+          "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4",
+          "caption": "Top of the world"
+        },
+        {
+          "id": 7,
+          "image": "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1",
+          "caption": "Boat rides"
+        },
+        {
+          "id": 8,
+          "image": "https://images.unsplash.com/photo-1488646953014-85cb44e25828",
+          "caption": "Next stop?"
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "name": "Sanjay Mohan",
+      "username": "sanjay_m",
+      "email": "sanjay@example.com",
+      "password": "demo123",
+      "bio": "Music addict 🎧 | Guitar beginner 🎸",
+      "profileImage": "https://i.pravatar.cc/150?img=16",
+      "coverImage": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d9",
+      "location": "Trichy, India",
+      "website": "",
+      "postsCount": 0,
+      "followers": 1430,
+      "following": 620,
+      "posts": []
+    },
+    {
+      "id": "10",
+      "name": "Divya Nair",
+      "username": "divya_nair",
+      "email": "divya@example.com",
+      "password": "demo123",
+      "bio": "Foodie 🍕 | Sharing little moments",
+      "profileImage": "https://i.pravatar.cc/150?img=48",
+      "coverImage": "https://images.unsplash.com/photo-1504674900247-0877df9cc836",
+      "location": "Thiruvananthapuram, India",
+      "website": "",
+      "postsCount": 4,
+      "followers": 2980,
+      "following": 770,
+      "posts": [
+        {
+          "id": 1,
+          "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836",
+          "caption": "Sunday brunch"
+        },
+        {
+          "id": 2,
+          "image": "https://images.unsplash.com/photo-1540206395-68808572332f",
+          "caption": "Fresh from the kitchen"
+        },
+        {
+          "id": 3,
+          "image": "https://images.unsplash.com/photo-1495539406979-bf61750d38ad",
+          "caption": "Sweet tooth"
+        },
+        {
+          "id": 4,
+          "image": "https://images.unsplash.com/photo-1513104890138-7c749659a591",
+          "caption": "Pizza night"
+        }
+      ]
+    },
+    {
+      "name": "Tony Stark",
+      "username": "_tony_stark_",
+      "email": "tony@gmail.com",
+      "password": "iamironman",
+      "bio": "",
+      "profileImage": "https://i.pravatar.cc/150",
+      "coverImage": "",
+      "location": "",
+      "website": "",
+      "postsCount": 0,
+      "followers": 0,
+      "following": 0,
+      "posts": [],
+      "id": "qI5I22K7dys"
+    }
+  ],
+  "posts": [
+    {
+      "id": "1",
+      "userId": 0,
+      "content": "Just finished reading a great book on personal development. Highly recommend it!",
+      "image": "https://images.unsplash.com/photo-1507842217343-583bb7270b66",
+      "likes": 120,
+      "comments": 15,
+      "timestamp": "2024-06-01T10:30:00Z"
+    },
+    {
+      "id": "2",
+      "userId": 1,
+      "content": "Had an amazing time hiking in the mountains this weekend. Nature is truly breathtaking!",
+      "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
+      "likes": 200,
+      "comments": 30,
+      "timestamp": "2024-06-02T14:45:00Z"
+    },
+    {
+      "id": "3",
+      "userId": 2,
+      "content": "Experimented with a new recipe today and it turned out delicious! Cooking is so therapeutic.",
+      "image": null,
+      "likes": 90,
+      "comments": 10,
+      "timestamp": "2024-06-03T09:15:00Z"
+    },
+    {
+      "id": "4",
+      "userId": 3,
+      "content": "Excited to announce that I just launched my new website! Check it out and let me know your thoughts.",
+      "image": "https://images.unsplash.com/photo-1517430816045-df4b7de11d1e",
+      "likes": 150,
+      "comments": 25,
+      "timestamp": "2024-06-04T16:20:00Z"
+    },
+    {
+      "id": "5",
+      "userId": 4,
+      "content": "Spent the day volunteering at the local animal shelter. It was such a rewarding experience!",
+      "image": null,
+      "likes": 80,
+      "comments": 12,
+      "timestamp": "2024-06-05T11:10:00Z"
+    },
+    {
+      "id": "6",
+      "userId": 5,
+      "content": "Just completed a 10k run! Feeling accomplished and energized.",
+      "image": "https://images.unsplash.com/photo-1508609349937-5ec4ae374ebf",
+      "likes": 170,
+      "comments": 20,
+      "timestamp": "2024-06-06T08:50:00Z"
+    },
+    {
+      "id": "7",
+      "userId": 6,
+      "content": "Attended a live concert last night and it was an unforgettable experience!",
+      "image": null,
+      "likes": 130,
+      "comments": 18,
+      "timestamp": "2024-06-07T19:30:00Z"
+    },
+    {
+      "id": "8",
+      "userId": 7,
+      "content": "Started learning a new language today. Excited for the journey ahead!",
+      "image": null,
+      "likes": 60,
+      "comments": 8,
+      "timestamp": "2024-06-08T13:40:00Z"
+    },
+    {
+      "id": "9",
+      "userId": 8,
+      "content": "Exploring the city and discovering hidden gems. Urban adventures are the best!",
+      "image": null,
+      "likes": 110,
+      "comments": 14,
+      "timestamp": "2024-06-09T15:25:00Z"
+    },
+    {
+      "id": "10",
+      "userId": 9,
+      "content": "Had a relaxing day at the beach. Sun, sand, and waves - perfect combination.",
+      "image": null,
+      "likes": 140,
+      "comments": 22,
+      "timestamp": "2024-06-10T12:05:00Z"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

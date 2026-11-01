@@ -1,0 +1,35 @@
+nav {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 15px 30px;
+            background-color: #222;
+            color: white;
+          }
+
+          nav h2 {
+            margin: 0;
+          }
+
+          nav div {
+            display: flex;
+            gap: 20px;
+          }
+
+          nav a {
+            color: white;
+            text-decoration: none;
+            font-size: 16px;
+          }
+
+          nav a:hover {
+            color: #00bcd4;
+            zoom : effect 0 0 5px #f6f2f2;
+          }
+          i {
+    font-size: 30px;
+}
+
+.bi {
+    font-size: 30px;
+}
